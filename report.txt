@@ -1,0 +1,9 @@
+
+Total URLs: 6
+
+Product URLs: 2
+Category URLs: 2
+Login URLs: 2
+
+Duplicate URLs:
+https://example.com/login

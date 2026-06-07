@@ -1,0 +1,6 @@
+https://example.com/product/123
+https://example.com/login
+https://example.com/product/124
+https://example.com/category/mobile
+https://example.com/category/laptop
+https://example.com/login
